@@ -59,6 +59,11 @@ figure {
     padding: 10px;
     margin: 20px ;
   }
+  .logo {
+    background-image: url('logo.ico');
+    }
+
+
 
 
 
